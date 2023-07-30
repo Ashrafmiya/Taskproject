@@ -1,0 +1,4 @@
+hide.txt
+*.jpg
+!ashraf.jpg
+/demo
